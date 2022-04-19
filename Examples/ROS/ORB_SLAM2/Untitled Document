@@ -1,0 +1,2 @@
+rosrun ORB_SLAM2 Monopub /home/jinln/catkin_ws/src/ORB_SLAM2_map/Vocabulary/ORBvoc.txt /home/jinln/jinln/DATASET/kitti/03/KITTI03.yaml -1
+
